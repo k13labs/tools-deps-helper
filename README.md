@@ -4,10 +4,6 @@
 
 tools-deps-helper utility
 
-# _Usage_
-
-...
-
 # _Building_
 
 tools-deps-helper is built, tested, and deployed using [Clojure Tools Deps](https://clojure.org/guides/deps_and_cli).
@@ -17,7 +13,13 @@ GNU Make is used to simplify invocation of some commands.
 Requires graalvm-22.3.1+java11 with native-image installed.
 
 ```bash
-make clean build-uberjar build-config build-native
+make build
+```
+
+# _Usage_
+
+```bash
+build/tools-deps-helper find-versions org.clojure/clojure
 ```
 
 # _Communication_

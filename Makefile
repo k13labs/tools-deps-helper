@@ -15,11 +15,13 @@ lint:
 	clojure -M:dev:test:clj-kondo --copy-configs --dependencies --parallel --lint "$(shell clojure -A:dev:test -Spath)"
 	clojure -M:dev:test:clj-kondo --lint "src:test" --fail-level "error"
 
+install-native-image:
+	gu install native-image
+
 build-uberjar:
 	clojure -X:uberjar :sync-pom true
 
-configure:
-	gu install native-image
+build-config:
 	mkdir -p graalvm-config
 	java -agentlib:native-image-agent=config-output-dir=graalvm-config -jar build/tools-deps-helper.jar find-versions "org.clojure/clojure"
 
@@ -42,6 +44,8 @@ build-native:
 		"-H:ConfigurationFileDirectories=graalvm-config" \
 		"k13labs.tools.deps.main" \
 		"build/tools-deps-helper"
+
+build: install-native-image build-uberjar build-config build-native
 
 format-check:
 	clojure -M:format-check
