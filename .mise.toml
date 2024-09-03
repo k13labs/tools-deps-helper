@@ -1,0 +1,2 @@
+[tools]
+java = "graalvm-22.3.1+java11"

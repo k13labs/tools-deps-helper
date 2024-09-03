@@ -1,5 +1,7 @@
 {:paths ["src" "resources"]
- :deps {org.clojure/clojure {:mvn/version "1.11.4"}}
+ :deps {org.clojure/clojure {:mvn/version "1.11.4"}
+        org.slf4j/slf4j-simple {:mvn/version "2.0.16"}
+        org.clojure/tools.deps {:mvn/version "0.20.1440"}}
  :aliases
  {:dev {:extra-paths ["dev"]
         :extra-deps {reloaded.repl/reloaded.repl {:mvn/version "0.2.4"}
@@ -17,7 +19,6 @@
   :runner {:main-opts ["-e" "(println \"warn-on-reflection =\" (set! *warn-on-reflection* true))"
                        "-m" "kaocha.runner"]
            :exec-fn   kaocha.runner/exec-fn}
-
 
   :repl {:extra-deps {nrepl/nrepl {:mvn/version "1.1.0"}
                       cider/cider-nrepl {:mvn/version "0.44.0"}}

@@ -1,0 +1,1093 @@
+[
+{
+  "name":"[B"
+},
+{
+  "name":"[C"
+},
+{
+  "name":"[D"
+},
+{
+  "name":"[F"
+},
+{
+  "name":"[I"
+},
+{
+  "name":"[J"
+},
+{
+  "name":"[Ljava.lang.Object;"
+},
+{
+  "name":"[Ljava.lang.String;"
+},
+{
+  "name":"[Lsun.security.pkcs.SignerInfo;"
+},
+{
+  "name":"[S"
+},
+{
+  "name":"[Z"
+},
+{
+  "name":"apple.security.AppleProvider",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.asm.ClassVisitor"
+},
+{
+  "name":"clojure.asm.ClassWriter"
+},
+{
+  "name":"clojure.asm.Opcodes"
+},
+{
+  "name":"clojure.asm.Type"
+},
+{
+  "name":"clojure.asm.commons.GeneratorAdapter"
+},
+{
+  "name":"clojure.asm.commons.Method"
+},
+{
+  "name":"clojure.core.ArrayChunk"
+},
+{
+  "name":"clojure.core.ArrayManager"
+},
+{
+  "name":"clojure.core.Eduction"
+},
+{
+  "name":"clojure.core.IVecImpl"
+},
+{
+  "name":"clojure.core.Inst"
+},
+{
+  "name":"clojure.core.Vec"
+},
+{
+  "name":"clojure.core.VecNode"
+},
+{
+  "name":"clojure.core.VecSeq"
+},
+{
+  "name":"clojure.core.protocols.CollReduce"
+},
+{
+  "name":"clojure.core.protocols.Datafiable"
+},
+{
+  "name":"clojure.core.protocols.IKVReduce"
+},
+{
+  "name":"clojure.core.protocols.InternalReduce"
+},
+{
+  "name":"clojure.core.protocols.Navigable"
+},
+{
+  "name":"clojure.core.protocols__init"
+},
+{
+  "name":"clojure.core.server__init"
+},
+{
+  "name":"clojure.core__init"
+},
+{
+  "name":"clojure.core_deftype__init"
+},
+{
+  "name":"clojure.core_print__init"
+},
+{
+  "name":"clojure.core_proxy__init"
+},
+{
+  "name":"clojure.data.json.InternalPBR"
+},
+{
+  "name":"clojure.data.json.JSONWriter"
+},
+{
+  "name":"clojure.data.json.ReaderPBR"
+},
+{
+  "name":"clojure.data.json.StringPBR"
+},
+{
+  "name":"clojure.data.json__init"
+},
+{
+  "name":"clojure.edn__init"
+},
+{
+  "name":"clojure.genclass__init"
+},
+{
+  "name":"clojure.gvec__init"
+},
+{
+  "name":"clojure.instant__init"
+},
+{
+  "name":"clojure.java.io.Coercions"
+},
+{
+  "name":"clojure.java.io.IOFactory"
+},
+{
+  "name":"clojure.java.io__init"
+},
+{
+  "name":"clojure.lang.APersistentMap$KeySeq"
+},
+{
+  "name":"clojure.lang.APersistentMap$ValSeq"
+},
+{
+  "name":"clojure.lang.ASeq"
+},
+{
+  "name":"clojure.lang.BigInt"
+},
+{
+  "name":"clojure.lang.ChunkBuffer"
+},
+{
+  "name":"clojure.lang.Compiler"
+},
+{
+  "name":"clojure.lang.Compiler$CompilerException"
+},
+{
+  "name":"clojure.lang.DynamicClassLoader"
+},
+{
+  "name":"clojure.lang.ExceptionInfo"
+},
+{
+  "name":"clojure.lang.Fn"
+},
+{
+  "name":"clojure.lang.IChunk"
+},
+{
+  "name":"clojure.lang.IChunkedSeq"
+},
+{
+  "name":"clojure.lang.IDeref"
+},
+{
+  "name":"clojure.lang.IExceptionInfo"
+},
+{
+  "name":"clojure.lang.IFn"
+},
+{
+  "name":"clojure.lang.IHashEq"
+},
+{
+  "name":"clojure.lang.IKVReduce"
+},
+{
+  "name":"clojure.lang.IPersistentCollection"
+},
+{
+  "name":"clojure.lang.IPersistentList"
+},
+{
+  "name":"clojure.lang.IPersistentMap"
+},
+{
+  "name":"clojure.lang.IPersistentSet"
+},
+{
+  "name":"clojure.lang.IPersistentVector"
+},
+{
+  "name":"clojure.lang.IProxy"
+},
+{
+  "name":"clojure.lang.IRecord"
+},
+{
+  "name":"clojure.lang.IReduceInit"
+},
+{
+  "name":"clojure.lang.ISeq"
+},
+{
+  "name":"clojure.lang.Keyword"
+},
+{
+  "name":"clojure.lang.LazilyPersistentVector"
+},
+{
+  "name":"clojure.lang.LazySeq"
+},
+{
+  "name":"clojure.lang.LineNumberingPushbackReader"
+},
+{
+  "name":"clojure.lang.LispReader$ReaderException"
+},
+{
+  "name":"clojure.lang.Murmur3"
+},
+{
+  "name":"clojure.lang.Named"
+},
+{
+  "name":"clojure.lang.Namespace"
+},
+{
+  "name":"clojure.lang.PersistentHashMap"
+},
+{
+  "name":"clojure.lang.PersistentHashSet"
+},
+{
+  "name":"clojure.lang.PersistentQueue"
+},
+{
+  "name":"clojure.lang.PersistentVector"
+},
+{
+  "name":"clojure.lang.RT"
+},
+{
+  "name":"clojure.lang.Ratio"
+},
+{
+  "name":"clojure.lang.ReaderConditional"
+},
+{
+  "name":"clojure.lang.Reflector"
+},
+{
+  "name":"clojure.lang.SeqIterator"
+},
+{
+  "name":"clojure.lang.Sequential"
+},
+{
+  "name":"clojure.lang.StringSeq"
+},
+{
+  "name":"clojure.lang.Symbol"
+},
+{
+  "name":"clojure.lang.TaggedLiteral"
+},
+{
+  "name":"clojure.lang.Util"
+},
+{
+  "name":"clojure.lang.Var"
+},
+{
+  "name":"clojure.lang.Volatile"
+},
+{
+  "name":"clojure.main__init"
+},
+{
+  "name":"clojure.pprint.PrettyFlush"
+},
+{
+  "name":"clojure.pprint.cl_format__init"
+},
+{
+  "name":"clojure.pprint.column_writer__init"
+},
+{
+  "name":"clojure.pprint.dispatch__init"
+},
+{
+  "name":"clojure.pprint.pprint_base__init"
+},
+{
+  "name":"clojure.pprint.pretty_writer__init"
+},
+{
+  "name":"clojure.pprint.print_table__init"
+},
+{
+  "name":"clojure.pprint.utilities__init"
+},
+{
+  "name":"clojure.pprint__init"
+},
+{
+  "name":"clojure.spec.alpha.Spec"
+},
+{
+  "name":"clojure.spec.alpha.Specize"
+},
+{
+  "name":"clojure.spec.alpha__init"
+},
+{
+  "name":"clojure.spec.gen.alpha__init"
+},
+{
+  "name":"clojure.string__init"
+},
+{
+  "name":"clojure.tools.deps.util.S3TransporterFactory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.tools.deps.util.io__init"
+},
+{
+  "name":"clojure.tools.deps.util.maven__init"
+},
+{
+  "name":"clojure.tools.deps.util.s3_transporter__init"
+},
+{
+  "name":"clojure.tools.deps.util.session__init"
+},
+{
+  "name":"clojure.uuid__init"
+},
+{
+  "name":"clojure.walk__init"
+},
+{
+  "name":"com.sun.crypto.provider.AESCipher$General",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.sun.crypto.provider.ARCFOURCipher",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.sun.crypto.provider.ChaCha20Cipher$ChaCha20Poly1305",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.sun.crypto.provider.DESCipher",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.sun.crypto.provider.DESedeCipher",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.sun.crypto.provider.DHParameters",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.sun.crypto.provider.GaloisCounterMode$AESGCM",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.sun.crypto.provider.TlsKeyMaterialGenerator",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.sun.crypto.provider.TlsMasterSecretGenerator",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.sun.crypto.provider.TlsPrfGenerator$V12",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"java.io.BufferedInputStream"
+},
+{
+  "name":"java.io.BufferedOutputStream"
+},
+{
+  "name":"java.io.BufferedReader"
+},
+{
+  "name":"java.io.BufferedWriter"
+},
+{
+  "name":"java.io.ByteArrayInputStream"
+},
+{
+  "name":"java.io.ByteArrayOutputStream"
+},
+{
+  "name":"java.io.CharArrayReader"
+},
+{
+  "name":"java.io.Closeable"
+},
+{
+  "name":"java.io.EOFException"
+},
+{
+  "name":"java.io.File"
+},
+{
+  "name":"java.io.FileInputStream"
+},
+{
+  "name":"java.io.FileOutputStream"
+},
+{
+  "name":"java.io.FileReader"
+},
+{
+  "name":"java.io.FileWriter"
+},
+{
+  "name":"java.io.IOException"
+},
+{
+  "name":"java.io.InputStream"
+},
+{
+  "name":"java.io.InputStreamReader"
+},
+{
+  "name":"java.io.NotSerializableException"
+},
+{
+  "name":"java.io.OutputStream"
+},
+{
+  "name":"java.io.OutputStreamWriter"
+},
+{
+  "name":"java.io.PrintWriter"
+},
+{
+  "name":"java.io.PushbackReader"
+},
+{
+  "name":"java.io.Reader"
+},
+{
+  "name":"java.io.Serializable"
+},
+{
+  "name":"java.io.StringReader"
+},
+{
+  "name":"java.io.StringWriter"
+},
+{
+  "name":"java.io.Writer"
+},
+{
+  "name":"java.lang.Boolean"
+},
+{
+  "name":"java.lang.Byte"
+},
+{
+  "name":"java.lang.CharSequence"
+},
+{
+  "name":"java.lang.Character"
+},
+{
+  "name":"java.lang.Class"
+},
+{
+  "name":"java.lang.Double"
+},
+{
+  "name":"java.lang.Float"
+},
+{
+  "name":"java.lang.Integer"
+},
+{
+  "name":"java.lang.Iterable"
+},
+{
+  "name":"java.lang.Long"
+},
+{
+  "name":"java.lang.Number"
+},
+{
+  "name":"java.lang.Object"
+},
+{
+  "name":"java.lang.Short"
+},
+{
+  "name":"java.lang.StackTraceElement"
+},
+{
+  "name":"java.lang.String"
+},
+{
+  "name":"java.lang.Thread",
+  "fields":[{"name":"threadLocalRandomProbe"}]
+},
+{
+  "name":"java.lang.ThreadLocal"
+},
+{
+  "name":"java.lang.Throwable"
+},
+{
+  "name":"java.lang.UnsupportedOperationException"
+},
+{
+  "name":"java.lang.annotation.Annotation"
+},
+{
+  "name":"java.lang.annotation.Retention"
+},
+{
+  "name":"java.lang.reflect.Array"
+},
+{
+  "name":"java.lang.reflect.Constructor"
+},
+{
+  "name":"java.lang.reflect.Field"
+},
+{
+  "name":"java.lang.reflect.Modifier"
+},
+{
+  "name":"java.math.BigDecimal"
+},
+{
+  "name":"java.math.BigInteger"
+},
+{
+  "name":"java.net.InetAddress"
+},
+{
+  "name":"java.net.MalformedURLException"
+},
+{
+  "name":"java.net.ServerSocket"
+},
+{
+  "name":"java.net.Socket"
+},
+{
+  "name":"java.net.SocketException"
+},
+{
+  "name":"java.net.URI"
+},
+{
+  "name":"java.net.URL"
+},
+{
+  "name":"java.net.URLDecoder"
+},
+{
+  "name":"java.net.URLEncoder"
+},
+{
+  "name":"java.nio.ByteBuffer"
+},
+{
+  "name":"java.nio.file.Files"
+},
+{
+  "name":"java.nio.file.attribute.FileAttribute"
+},
+{
+  "name":"java.security.AlgorithmParametersSpi"
+},
+{
+  "name":"java.security.KeyStoreSpi"
+},
+{
+  "name":"java.security.SecureRandomParameters"
+},
+{
+  "name":"java.security.interfaces.RSAPrivateKey"
+},
+{
+  "name":"java.security.interfaces.RSAPublicKey"
+},
+{
+  "name":"java.sql.Date"
+},
+{
+  "name":"java.sql.Timestamp"
+},
+{
+  "name":"java.time.Instant"
+},
+{
+  "name":"java.util.Calendar"
+},
+{
+  "name":"java.util.Collection"
+},
+{
+  "name":"java.util.Date"
+},
+{
+  "name":"java.util.GregorianCalendar"
+},
+{
+  "name":"java.util.List"
+},
+{
+  "name":"java.util.Map"
+},
+{
+  "name":"java.util.RandomAccess"
+},
+{
+  "name":"java.util.Set"
+},
+{
+  "name":"java.util.TimeZone"
+},
+{
+  "name":"java.util.UUID"
+},
+{
+  "name":"java.util.concurrent.ArrayBlockingQueue"
+},
+{
+  "name":"java.util.concurrent.BlockingQueue"
+},
+{
+  "name":"java.util.concurrent.ConcurrentHashMap"
+},
+{
+  "name":"java.util.concurrent.ConcurrentMap"
+},
+{
+  "name":"java.util.concurrent.LinkedBlockingQueue"
+},
+{
+  "name":"java.util.concurrent.atomic.AtomicBoolean",
+  "fields":[{"name":"value"}]
+},
+{
+  "name":"java.util.concurrent.atomic.AtomicInteger"
+},
+{
+  "name":"java.util.concurrent.atomic.AtomicLong"
+},
+{
+  "name":"java.util.concurrent.atomic.AtomicMarkableReference",
+  "fields":[{"name":"pair"}]
+},
+{
+  "name":"java.util.concurrent.atomic.AtomicReference",
+  "fields":[{"name":"value"}]
+},
+{
+  "name":"java.util.concurrent.atomic.Striped64",
+  "fields":[{"name":"base"}, {"name":"cellsBusy"}]
+},
+{
+  "name":"java.util.concurrent.locks.ReentrantLock"
+},
+{
+  "name":"java.util.function.Function"
+},
+{
+  "name":"java.util.regex.Matcher"
+},
+{
+  "name":"java.util.regex.Pattern"
+},
+{
+  "name":"javax.security.auth.x500.X500Principal",
+  "fields":[{"name":"thisX500Name"}],
+  "methods":[{"name":"<init>","parameterTypes":["sun.security.x509.X500Name"] }]
+},
+{
+  "name":"k13labs.tools.deps.main__init"
+},
+{
+  "name":"org.apache.maven.repository.internal.DefaultArtifactDescriptorReader",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.maven.repository.internal.DefaultVersionRangeResolver",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.maven.repository.internal.DefaultVersionResolver",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.maven.repository.internal.MavenRepositorySystemUtils"
+},
+{
+  "name":"org.apache.maven.repository.internal.SnapshotMetadataGeneratorFactory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.maven.repository.internal.VersionsMetadataGeneratorFactory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.maven.settings.DefaultMavenSettingsBuilder",
+  "fields":[{"name":"settingsBuilder"}]
+},
+{
+  "name":"org.apache.maven.settings.Mirror"
+},
+{
+  "name":"org.apache.maven.settings.Server"
+},
+{
+  "name":"org.apache.maven.settings.Settings"
+},
+{
+  "name":"org.apache.maven.settings.building.DefaultSettingsBuilderFactory"
+},
+{
+  "name":"org.codehaus.plexus.util.xml.Xpp3Dom"
+},
+{
+  "name":"org.eclipse.aether.ConfigurationProperties"
+},
+{
+  "name":"org.eclipse.aether.DefaultRepositoryCache"
+},
+{
+  "name":"org.eclipse.aether.DefaultRepositorySystemSession"
+},
+{
+  "name":"org.eclipse.aether.RepositorySystem"
+},
+{
+  "name":"org.eclipse.aether.RepositorySystemSession"
+},
+{
+  "name":"org.eclipse.aether.artifact.Artifact"
+},
+{
+  "name":"org.eclipse.aether.artifact.DefaultArtifact"
+},
+{
+  "name":"org.eclipse.aether.connector.basic.BasicRepositoryConnectorFactory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.eclipse.aether.graph.Dependency"
+},
+{
+  "name":"org.eclipse.aether.graph.Exclusion"
+},
+{
+  "name":"org.eclipse.aether.impl.DefaultServiceLocator"
+},
+{
+  "name":"org.eclipse.aether.internal.impl.DefaultArtifactResolver",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.eclipse.aether.internal.impl.DefaultChecksumPolicyProvider",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.eclipse.aether.internal.impl.DefaultDeployer",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.eclipse.aether.internal.impl.DefaultFileProcessor",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.eclipse.aether.internal.impl.DefaultInstaller",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.eclipse.aether.internal.impl.DefaultLocalPathComposer",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.eclipse.aether.internal.impl.DefaultLocalRepositoryProvider",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.eclipse.aether.internal.impl.DefaultMetadataResolver",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.eclipse.aether.internal.impl.DefaultOfflineController",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.eclipse.aether.internal.impl.DefaultRemoteRepositoryManager",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.eclipse.aether.internal.impl.DefaultRepositoryConnectorProvider",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.eclipse.aether.internal.impl.DefaultRepositoryEventDispatcher",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.eclipse.aether.internal.impl.DefaultRepositoryLayoutProvider",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.eclipse.aether.internal.impl.DefaultRepositorySystem",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.eclipse.aether.internal.impl.DefaultTrackingFileManager",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.eclipse.aether.internal.impl.DefaultTransporterProvider",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.eclipse.aether.internal.impl.DefaultUpdateCheckManager",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.eclipse.aether.internal.impl.DefaultUpdatePolicyAnalyzer",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.eclipse.aether.internal.impl.EnhancedLocalRepositoryManagerFactory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.eclipse.aether.internal.impl.Maven2RepositoryLayoutFactory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.eclipse.aether.internal.impl.SimpleLocalRepositoryManagerFactory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.eclipse.aether.internal.impl.synccontext.DefaultSyncContextFactory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.eclipse.aether.internal.impl.synccontext.legacy.DefaultSyncContextFactory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.eclipse.aether.internal.impl.synccontext.named.SimpleNamedLockFactorySelector",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.eclipse.aether.repository.AuthenticationContext"
+},
+{
+  "name":"org.eclipse.aether.repository.LocalRepository"
+},
+{
+  "name":"org.eclipse.aether.repository.Proxy"
+},
+{
+  "name":"org.eclipse.aether.repository.RemoteRepository"
+},
+{
+  "name":"org.eclipse.aether.repository.RemoteRepository$Builder"
+},
+{
+  "name":"org.eclipse.aether.repository.RepositoryPolicy"
+},
+{
+  "name":"org.eclipse.aether.resolution.VersionRangeRequest"
+},
+{
+  "name":"org.eclipse.aether.spi.connector.RepositoryConnectorFactory"
+},
+{
+  "name":"org.eclipse.aether.spi.connector.transport.GetTask"
+},
+{
+  "name":"org.eclipse.aether.spi.connector.transport.PeekTask"
+},
+{
+  "name":"org.eclipse.aether.spi.connector.transport.Transporter"
+},
+{
+  "name":"org.eclipse.aether.spi.connector.transport.TransporterFactory"
+},
+{
+  "name":"org.eclipse.aether.spi.locator.ServiceLocator"
+},
+{
+  "name":"org.eclipse.aether.transfer.TransferEvent"
+},
+{
+  "name":"org.eclipse.aether.transfer.TransferListener"
+},
+{
+  "name":"org.eclipse.aether.transport.file.FileTransporterFactory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.eclipse.aether.transport.http.HttpTransporterFactory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.eclipse.aether.util.repository.AuthenticationBuilder"
+},
+{
+  "name":"org.eclipse.aether.util.repository.DefaultMirrorSelector"
+},
+{
+  "name":"org.eclipse.aether.util.repository.DefaultProxySelector"
+},
+{
+  "name":"sun.security.pkcs12.PKCS12KeyStore",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"sun.security.pkcs12.PKCS12KeyStore$DualFormatPKCS12",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"sun.security.provider.DSA$SHA224withDSA",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"sun.security.provider.DSA$SHA256withDSA",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"sun.security.provider.MD5",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"sun.security.provider.NativePRNG",
+  "methods":[{"name":"<init>","parameterTypes":[] }, {"name":"<init>","parameterTypes":["java.security.SecureRandomParameters"] }]
+},
+{
+  "name":"sun.security.provider.SHA",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"sun.security.provider.SHA2$SHA224",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"sun.security.provider.SHA2$SHA256",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"sun.security.provider.SHA5$SHA384",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"sun.security.provider.SHA5$SHA512",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"sun.security.provider.X509Factory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"sun.security.provider.certpath.PKIXCertPathValidator",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"sun.security.rsa.PSSParameters",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"sun.security.rsa.RSAKeyFactory$Legacy",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"sun.security.rsa.RSAPSSSignature",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"sun.security.rsa.RSASignature$SHA224withRSA",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"sun.security.rsa.RSASignature$SHA256withRSA",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"sun.security.ssl.KeyManagerFactoryImpl$SunX509",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"sun.security.ssl.SSLContextImpl$DefaultSSLContext",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"sun.security.ssl.TrustManagerFactoryImpl$PKIXFactory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"sun.security.util.ObjectIdentifier"
+},
+{
+  "name":"sun.security.x509.AuthorityInfoAccessExtension",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.Boolean","java.lang.Object"] }]
+},
+{
+  "name":"sun.security.x509.AuthorityKeyIdentifierExtension",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.Boolean","java.lang.Object"] }]
+},
+{
+  "name":"sun.security.x509.BasicConstraintsExtension",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.Boolean","java.lang.Object"] }]
+},
+{
+  "name":"sun.security.x509.CRLDistributionPointsExtension",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.Boolean","java.lang.Object"] }]
+},
+{
+  "name":"sun.security.x509.CertificateExtensions"
+},
+{
+  "name":"sun.security.x509.CertificatePoliciesExtension",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.Boolean","java.lang.Object"] }]
+},
+{
+  "name":"sun.security.x509.ExtendedKeyUsageExtension",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.Boolean","java.lang.Object"] }]
+},
+{
+  "name":"sun.security.x509.IssuerAlternativeNameExtension",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.Boolean","java.lang.Object"] }]
+},
+{
+  "name":"sun.security.x509.KeyUsageExtension",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.Boolean","java.lang.Object"] }]
+},
+{
+  "name":"sun.security.x509.NetscapeCertTypeExtension",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.Boolean","java.lang.Object"] }]
+},
+{
+  "name":"sun.security.x509.PrivateKeyUsageExtension",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.Boolean","java.lang.Object"] }]
+},
+{
+  "name":"sun.security.x509.SubjectAlternativeNameExtension",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.Boolean","java.lang.Object"] }]
+},
+{
+  "name":"sun.security.x509.SubjectKeyIdentifierExtension",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.Boolean","java.lang.Object"] }]
+}
+]
