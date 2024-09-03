@@ -4,8 +4,8 @@
                                               :kaocha.plugin/print-invocations
                                               :kaocha.plugin/hooks
                                               :preloads]
-            :kaocha.hooks/pre-report         [futurama.test-setup/defuse-zero-assertions]
-            :kaocha.plugin.preloads/ns-names [futurama.test-setup]
+            :kaocha.hooks/pre-report         [k13labs.test-setup/defuse-zero-assertions]
+            :kaocha.plugin.preloads/ns-names [k13labs.test-setup]
             :tests                           [{:id        :unit
                                                :kaocha/fail-fast?               false
                                                :kaocha/source-paths             ["src"]

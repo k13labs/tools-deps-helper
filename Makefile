@@ -18,9 +18,10 @@ lint:
 build-uberjar:
 	clojure -X:uberjar :sync-pom true
 
-build-config:
+configure:
+	gu install native-image
 	mkdir -p graalvm-config
-	java -agentlib:native-image-agent=config-output-dir=graalvm-config -jar build/tools-deps-helper.jar find-versions "com.github.k13labs/futurama"
+	java -agentlib:native-image-agent=config-output-dir=graalvm-config -jar build/tools-deps-helper.jar find-versions "org.clojure/clojure"
 
 build-native:
 	native-image -cp "$(shell clojure -Spath):classes" \

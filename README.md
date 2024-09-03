@@ -14,6 +14,12 @@ tools-deps-helper is built, tested, and deployed using [Clojure Tools Deps](http
 
 GNU Make is used to simplify invocation of some commands.
 
+Requires graalvm-22.3.1+java11 with native-image installed.
+
+```bash
+make clean build-uberjar build-config build-native
+```
+
 # _Communication_
 
 - For any other questions or issues about hierarchy free to browse or open a [Github Issue](https://github.com/k13labs/hierarchy/issues).
