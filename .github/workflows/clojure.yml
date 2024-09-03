@@ -12,12 +12,8 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
-    - name: Setup Java
-      uses: actions/setup-java@v3
-      with:
-        # see: https://github.com/marketplace/actions/setup-java
-        distribution: 'corretto'
-        java-version: '11'
+    - name: Setup SDKs
+      uses: jdx/mise-action@v2
     - name: Install clojure tools
       uses: DeLaGuardo/setup-clojure@12.1
       with:
