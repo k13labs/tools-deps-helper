@@ -1,157 +1,204 @@
 {
   "resources":{
-  "includes":[{
-    "pattern":"\\QMETA-INF/services/java.lang.System$LoggerFinder\\E"
-  }, {
-    "pattern":"\\QMETA-INF/services/java.net.spi.InetAddressResolverProvider\\E"
-  }, {
-    "pattern":"\\QMETA-INF/services/java.net.spi.URLStreamHandlerProvider\\E"
-  }, {
-    "pattern":"\\QMETA-INF/services/org.slf4j.spi.SLF4JServiceProvider\\E"
-  }, {
-    "pattern":"\\Qclojure/core.clj\\E"
-  }, {
-    "pattern":"\\Qclojure/core/protocols.clj\\E"
-  }, {
-    "pattern":"\\Qclojure/core/protocols__init.class\\E"
-  }, {
-    "pattern":"\\Qclojure/core/server.clj\\E"
-  }, {
-    "pattern":"\\Qclojure/core/server__init.class\\E"
-  }, {
-    "pattern":"\\Qclojure/core__init.class\\E"
-  }, {
-    "pattern":"\\Qclojure/core_deftype.clj\\E"
-  }, {
-    "pattern":"\\Qclojure/core_deftype__init.class\\E"
-  }, {
-    "pattern":"\\Qclojure/core_print.clj\\E"
-  }, {
-    "pattern":"\\Qclojure/core_print__init.class\\E"
-  }, {
-    "pattern":"\\Qclojure/core_proxy.clj\\E"
-  }, {
-    "pattern":"\\Qclojure/core_proxy__init.class\\E"
-  }, {
-    "pattern":"\\Qclojure/data/json.clj\\E"
-  }, {
-    "pattern":"\\Qclojure/data/json__init.class\\E"
-  }, {
-    "pattern":"\\Qclojure/edn.clj\\E"
-  }, {
-    "pattern":"\\Qclojure/edn__init.class\\E"
-  }, {
-    "pattern":"\\Qclojure/genclass.clj\\E"
-  }, {
-    "pattern":"\\Qclojure/genclass__init.class\\E"
-  }, {
-    "pattern":"\\Qclojure/gvec.clj\\E"
-  }, {
-    "pattern":"\\Qclojure/gvec__init.class\\E"
-  }, {
-    "pattern":"\\Qclojure/instant.clj\\E"
-  }, {
-    "pattern":"\\Qclojure/instant__init.class\\E"
-  }, {
-    "pattern":"\\Qclojure/java/io.clj\\E"
-  }, {
-    "pattern":"\\Qclojure/java/io__init.class\\E"
-  }, {
-    "pattern":"\\Qclojure/main.clj\\E"
-  }, {
-    "pattern":"\\Qclojure/main__init.class\\E"
-  }, {
-    "pattern":"\\Qclojure/pprint.clj\\E"
-  }, {
-    "pattern":"\\Qclojure/pprint/cl_format.clj\\E"
-  }, {
-    "pattern":"\\Qclojure/pprint/cl_format__init.class\\E"
-  }, {
-    "pattern":"\\Qclojure/pprint/column_writer.clj\\E"
-  }, {
-    "pattern":"\\Qclojure/pprint/column_writer__init.class\\E"
-  }, {
-    "pattern":"\\Qclojure/pprint/dispatch.clj\\E"
-  }, {
-    "pattern":"\\Qclojure/pprint/dispatch__init.class\\E"
-  }, {
-    "pattern":"\\Qclojure/pprint/pprint_base.clj\\E"
-  }, {
-    "pattern":"\\Qclojure/pprint/pprint_base__init.class\\E"
-  }, {
-    "pattern":"\\Qclojure/pprint/pretty_writer.clj\\E"
-  }, {
-    "pattern":"\\Qclojure/pprint/pretty_writer__init.class\\E"
-  }, {
-    "pattern":"\\Qclojure/pprint/print_table.clj\\E"
-  }, {
-    "pattern":"\\Qclojure/pprint/print_table__init.class\\E"
-  }, {
-    "pattern":"\\Qclojure/pprint/utilities.clj\\E"
-  }, {
-    "pattern":"\\Qclojure/pprint/utilities__init.class\\E"
-  }, {
-    "pattern":"\\Qclojure/pprint__init.class\\E"
-  }, {
-    "pattern":"\\Qclojure/spec/alpha.clj\\E"
-  }, {
-    "pattern":"\\Qclojure/spec/alpha__init.class\\E"
-  }, {
-    "pattern":"\\Qclojure/spec/gen/alpha.clj\\E"
-  }, {
-    "pattern":"\\Qclojure/spec/gen/alpha__init.class\\E"
-  }, {
-    "pattern":"\\Qclojure/string.clj\\E"
-  }, {
-    "pattern":"\\Qclojure/string__init.class\\E"
-  }, {
-    "pattern":"\\Qclojure/tools/deps/util/io.clj\\E"
-  }, {
-    "pattern":"\\Qclojure/tools/deps/util/io__init.class\\E"
-  }, {
-    "pattern":"\\Qclojure/tools/deps/util/maven.clj\\E"
-  }, {
-    "pattern":"\\Qclojure/tools/deps/util/maven__init.class\\E"
-  }, {
-    "pattern":"\\Qclojure/tools/deps/util/s3_transporter.clj\\E"
-  }, {
-    "pattern":"\\Qclojure/tools/deps/util/s3_transporter__init.class\\E"
-  }, {
-    "pattern":"\\Qclojure/tools/deps/util/session.clj\\E"
-  }, {
-    "pattern":"\\Qclojure/tools/deps/util/session__init.class\\E"
-  }, {
-    "pattern":"\\Qclojure/uuid.clj\\E"
-  }, {
-    "pattern":"\\Qclojure/uuid__init.class\\E"
-  }, {
-    "pattern":"\\Qclojure/version.properties\\E"
-  }, {
-    "pattern":"\\Qclojure/walk.clj\\E"
-  }, {
-    "pattern":"\\Qclojure/walk__init.class\\E"
-  }, {
-    "pattern":"\\Qdata_readers.clj\\E"
-  }, {
-    "pattern":"\\Qdata_readers.cljc\\E"
-  }, {
-    "pattern":"\\Qk13labs/tools/deps/main.clj\\E"
-  }, {
-    "pattern":"\\Qk13labs/tools/deps/main__init.class\\E"
-  }, {
-    "pattern":"\\Qmozilla/public-suffix-list.txt\\E"
-  }, {
-    "pattern":"\\Qsimplelogger.properties\\E"
-  }, {
-    "pattern":"\\Quser.clj\\E"
-  }, {
-    "pattern":"java.base:\\Qjdk/internal/icu/impl/data/icudt72b/nfc.nrm\\E"
-  }, {
-    "pattern":"java.base:\\Qjdk/internal/icu/impl/data/icudt72b/nfkc.nrm\\E"
-  }, {
-    "pattern":"java.base:\\Qjdk/internal/icu/impl/data/icudt72b/uprops.icu\\E"
-  }, {
-    "pattern":"java.base:\\Qsun/net/idn/uidna.spp\\E"
-  }]},
+  "includes":[
+    {
+      "pattern":"\\QMETA-INF/services/org.slf4j.spi.SLF4JServiceProvider\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/core.clj\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/core/protocols.clj\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/core/protocols__init.class\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/core/server.clj\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/core/server__init.class\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/core__init.class\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/core_deftype.clj\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/core_deftype__init.class\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/core_print.clj\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/core_print__init.class\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/core_proxy.clj\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/core_proxy__init.class\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/data/json.clj\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/data/json__init.class\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/edn.clj\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/edn__init.class\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/genclass.clj\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/genclass__init.class\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/gvec.clj\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/gvec__init.class\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/instant.clj\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/instant__init.class\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/java/io.clj\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/java/io__init.class\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/main.clj\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/main__init.class\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/pprint.clj\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/pprint/cl_format.clj\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/pprint/cl_format__init.class\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/pprint/column_writer.clj\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/pprint/column_writer__init.class\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/pprint/dispatch.clj\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/pprint/dispatch__init.class\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/pprint/pprint_base.clj\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/pprint/pprint_base__init.class\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/pprint/pretty_writer.clj\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/pprint/pretty_writer__init.class\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/pprint/print_table.clj\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/pprint/print_table__init.class\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/pprint/utilities.clj\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/pprint/utilities__init.class\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/pprint__init.class\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/spec/alpha.clj\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/spec/alpha__init.class\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/spec/gen/alpha.clj\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/spec/gen/alpha__init.class\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/string.clj\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/string__init.class\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/tools/deps/util/io.clj\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/tools/deps/util/io__init.class\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/tools/deps/util/maven.clj\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/tools/deps/util/maven__init.class\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/tools/deps/util/s3_transporter.clj\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/tools/deps/util/s3_transporter__init.class\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/tools/deps/util/session.clj\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/tools/deps/util/session__init.class\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/uuid.clj\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/uuid__init.class\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/version.properties\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/walk.clj\\E"
+    }, 
+    {
+      "pattern":"\\Qclojure/walk__init.class\\E"
+    }, 
+    {
+      "pattern":"\\Qdata_readers.cljc\\E"
+    }, 
+    {
+      "pattern":"\\Qk13labs/tools/deps/main.clj\\E"
+    }, 
+    {
+      "pattern":"\\Qk13labs/tools/deps/main__init.class\\E"
+    }, 
+    {
+      "pattern":"\\Qmozilla/public-suffix-list.txt\\E"
+    }
+  ]},
   "bundles":[]
 }

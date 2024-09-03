@@ -365,31 +365,11 @@
   "name":"clojure.walk__init"
 },
 {
-  "name":"com.sun.crypto.provider.AESCipher$General",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.sun.crypto.provider.ARCFOURCipher",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
   "name":"com.sun.crypto.provider.ChaCha20Cipher$ChaCha20Poly1305",
   "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"com.sun.crypto.provider.DESCipher",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.sun.crypto.provider.DESedeCipher",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
   "name":"com.sun.crypto.provider.DHParameters",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.sun.crypto.provider.GaloisCounterMode$AESGCM",
   "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
@@ -531,10 +511,6 @@
   "name":"java.lang.String"
 },
 {
-  "name":"java.lang.Thread",
-  "fields":[{"name":"threadLocalRandomProbe"}]
-},
-{
   "name":"java.lang.ThreadLocal"
 },
 {
@@ -610,6 +586,9 @@
   "name":"java.security.KeyStoreSpi"
 },
 {
+  "name":"java.security.MessageDigestSpi"
+},
+{
   "name":"java.security.SecureRandomParameters"
 },
 {
@@ -673,26 +652,10 @@
   "name":"java.util.concurrent.LinkedBlockingQueue"
 },
 {
-  "name":"java.util.concurrent.atomic.AtomicBoolean",
-  "fields":[{"name":"value"}]
-},
-{
   "name":"java.util.concurrent.atomic.AtomicInteger"
 },
 {
   "name":"java.util.concurrent.atomic.AtomicLong"
-},
-{
-  "name":"java.util.concurrent.atomic.AtomicMarkableReference",
-  "fields":[{"name":"pair"}]
-},
-{
-  "name":"java.util.concurrent.atomic.AtomicReference",
-  "fields":[{"name":"value"}]
-},
-{
-  "name":"java.util.concurrent.atomic.Striped64",
-  "fields":[{"name":"base"}, {"name":"cellsBusy"}]
 },
 {
   "name":"java.util.concurrent.locks.ReentrantLock"
@@ -969,12 +932,16 @@
   "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
+  "name":"sun.security.provider.JavaKeyStore$JKS",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
   "name":"sun.security.provider.MD5",
   "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
   "name":"sun.security.provider.NativePRNG",
-  "methods":[{"name":"<init>","parameterTypes":[] }, {"name":"<init>","parameterTypes":["java.security.SecureRandomParameters"] }]
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
   "name":"sun.security.provider.SHA",
