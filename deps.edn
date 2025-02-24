@@ -1,7 +1,7 @@
 {:paths ["src" "resources"]
- :deps {org.clojure/clojure {:mvn/version "1.11.4"}
+ :deps {org.clojure/clojure {:mvn/version "1.12.0"}
         org.slf4j/slf4j-simple {:mvn/version "2.0.16"}
-        org.clojure/tools.deps {:mvn/version "0.20.1440"}}
+        org.clojure/tools.deps {:mvn/version "0.22.1492"}}
  :aliases
  {:dev {:extra-paths ["dev"]
         :extra-deps {reloaded.repl/reloaded.repl {:mvn/version "0.2.4"}

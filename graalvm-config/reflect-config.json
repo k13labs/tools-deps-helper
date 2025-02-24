@@ -625,6 +625,9 @@
   "name":"java.util.Map"
 },
 {
+  "name":"java.util.Properties"
+},
+{
   "name":"java.util.RandomAccess"
 },
 {
